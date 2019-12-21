@@ -9,4 +9,3 @@ A simple calculator made in Python3 using tkinter for GUI
 5. Division
 6. Negation
 
-# Error handling for division by zero is also added.
